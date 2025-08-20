@@ -33,7 +33,7 @@ pandas
 scikit-learn (Logistic Regression, StandardScaler)
 
 Evaluation metrics libraries
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Installation & Setup
 
 Prerequisites
@@ -54,10 +54,12 @@ Install dependencies
 
 pip install numpy pandas scikit-learn
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Usage
 
 Run the notebooks step-by-step to analyze the dataset, preprocess features (like scaling and encoding), train machine learning models, and evaluate their performance.
+
 
 Basic example
 
@@ -73,6 +75,7 @@ from sklearn.metrics import accuracy_score
 
 df = pd.read_csv('customer_churn.csv')
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Features
 
 Exploratory Data Analysis (EDA) on customer churn data
