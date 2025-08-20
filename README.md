@@ -1,4 +1,4 @@
-Customer-Churn-Prediction
+📄 Customer-Churn-Prediction
 
 Predict customer churn using machine learning algorithms in Python to help businesses proactively retain customers.
 
@@ -18,7 +18,7 @@ About
 
 This project aims to predict customer churn based on historical customer data using machine learning models including logistic regression and others. Predicting which customers are likely to leave enables businesses to take proactive retention measures.
 
-Tech Stack
+💻  Tech Stack
 
 Programming Language: Python
 
@@ -34,7 +34,7 @@ scikit-learn (Logistic Regression, StandardScaler)
 
 Evaluation metrics libraries
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Installation & Setup
+⚙️ Installation & Setup
 
 Prerequisites
 
@@ -56,7 +56,7 @@ pip install numpy pandas scikit-learn
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Usage
+🚀 Usage
 
 Run the notebooks step-by-step to analyze the dataset, preprocess features (like scaling and encoding), train machine learning models, and evaluate their performance.
 
@@ -76,7 +76,8 @@ from sklearn.metrics import accuracy_score
 df = pd.read_csv('customer_churn.csv')
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Features
+
+✨ Features
 
 Exploratory Data Analysis (EDA) on customer churn data
 
