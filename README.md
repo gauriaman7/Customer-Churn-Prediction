@@ -13,7 +13,7 @@ Installation & Setup
 Usage
 
 Features
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 About
 
 This project aims to predict customer churn based on historical customer data using machine learning models including logistic regression and others. Predicting which customers are likely to leave enables businesses to take proactive retention measures.
